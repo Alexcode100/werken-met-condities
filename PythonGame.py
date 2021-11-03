@@ -244,11 +244,10 @@ if Moeilijkheid == "1":
         totaal += Bedrag10
 #kanscode5
 
-
 #TotaalBedraag5
     os.system('cls')
     if Easy5 == "1":
-        print('U heeft nu '+str(totaal)+'$ aan waarde gestolen! ')
+        print('U heeft nu '+str(totaal)+'$ aan waarde gestolen! ') 
     else:
         print('U heeft nu '+str(totaal)+'$ aan waarde gestolen! ')
 #TotaalBedraag5
